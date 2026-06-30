@@ -15,8 +15,6 @@ I am passionate about developing intelligent, secure, and reliable AI-driven sys
 
 ---
 
-<br />
-
 ## Research Interests
 
 <table>
