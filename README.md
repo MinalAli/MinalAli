@@ -15,6 +15,10 @@ I am passionate about developing intelligent, secure, and reliable AI-driven sys
 
 ---
 
+<br />
+
+ <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 ## Research Interests
 
 - Software Resilience & Reliability
@@ -48,6 +52,17 @@ I am passionate about developing intelligent, secure, and reliable AI-driven sys
 </div>
 
 ---
+
+ ## Github Stats📈:
+
+ <p align="center">
+   <a href="https://github.com/arhamansari11"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abraheem13&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
+   </a>  
+ </p> 
+
+<br>
+
 
 ## 📈 GitHub Contribution Graph
 
