@@ -17,9 +17,13 @@ I am passionate about developing intelligent, secure, and reliable AI-driven sys
 
 <br />
 
- <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 ## Research Interests
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🔬 Research Interests
 
 - Software Resilience & Reliability
 - Autonomous Systems
@@ -30,6 +34,16 @@ I am passionate about developing intelligent, secure, and reliable AI-driven sys
 - Cyber Security
 - Trustworthy AI
 - Generative AI
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320" alt="AI GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,8 +70,8 @@ I am passionate about developing intelligent, secure, and reliable AI-driven sys
  ## Github Stats📈:
 
  <p align="center">
-   <a href="https://github.com/arhamansari11"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abraheem13&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
+   <a href="https://github.com/MinalAli"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=MinalAli&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
    </a>  
  </p> 
 
